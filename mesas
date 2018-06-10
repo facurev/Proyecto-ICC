@@ -1,1 +1,11 @@
-hola
+mesas=('Mesa 1','Mesa 2','Mesa 3','Mesa 4','Mesa 5','Mesa 6')
+rel=[]
+
+for i in mesas:
+    n=int(input('Numero de votantes:'))
+    x=[]
+    x.append(i)
+    x.append(n)
+    tuple(x)
+    rel.append(x)
+print(rel)
