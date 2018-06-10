@@ -16,3 +16,5 @@ print(candidatos)
 print(partidos)
 print(municipios)
 
+#############estos michis son pa ver si funciona (facundo)#####
+print("facundo estuvo aqui")
